@@ -1,1 +1,1 @@
-# minomaze
+# minotaur maze
